@@ -1,0 +1,10 @@
+Diabetic retinopathy, DR, is the leading cause of visual loss in the working populaition age group. 
+Because of the Covid pandemic as well as numerous personal issues many patients have had lapses
+in their diabetic monitoring, care and follow up. While these problems are not really a valid
+excuse for inadequate medical care, having a possible shortcut to get back into the proper path
+for at least emergent need medical care might be useful. Thus if a screening retinal fundus photo showed certain
+higher risk changes, that would alert these individuals with less economic means or indolence or lack
+of inclination of the need to rapidly get glucose monitoring, 
+see their internist and retinologist and get back on track with their diabetic regimen.
+It is with this in mind that I thought to use fundus photo models for different stages of DR to create an algorithm from
+serial patient fundus photos to inform on the pattern of incremental risk for visual loss.
